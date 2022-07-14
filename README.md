@@ -6,7 +6,7 @@
 
 ## :computer: Technologies I Love
 
-<!-- <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right> -->
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 * React
 * React Native
