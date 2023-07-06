@@ -11,6 +11,7 @@
 * React
 * React Native
 * Javascript/Typescript
+* Flutter/Dart
 * Frontend Web/Mobile Development
 * AI/Machine Learning
 * UI/UX
